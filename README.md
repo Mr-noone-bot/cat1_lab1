@@ -4,3 +4,4 @@ Version 3: Creating buildlog.txt.
 Version 4: Appending Build Number.
 Experiment 11 - Version 2: Processing Files
 Experiment 11 - Version 3: Creating Status File
+Experiment 11 - Version 4: Final Append
